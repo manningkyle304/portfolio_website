@@ -2,26 +2,41 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
-[The Olympics](https://github.com/manningkyle304/Olympic-Exploration/)
+[Exploring the Olympics](https://github.com/manningkyle304/Olympic-Exploration/)
 
 
 <img src="images/olympic_pic.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### School Projects
+
+[Project 1](https://github.com/manningkyle304/Olympic-Exploration/)
+
+---
+
+[Project 2](https://github.com/manningkyle304/Olympic-Exploration/)
+
+---
+
 
 ---
 
 ### What I'm Reading
 
 #### Papers
+
+
 
 
 #### Books
