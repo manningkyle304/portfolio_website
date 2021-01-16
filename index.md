@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[The Olympics](/https://github.com/manningkyle304/Olympic-Exploration)
+[The Olympics](https://github.com/manningkyle304/Olympic-Exploration/)
 
 
 <img src="images/olympic_pic.jpeg?raw=true"/>
