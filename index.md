@@ -4,34 +4,21 @@
 
 ### Inventory tracker
 
-
-
-<!-- [](/pdf/sample_presentation.pdf) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Automatic Censorship
 
 
-
-<!-- [](http://example.com/) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### Automatic Censorship
 
-<!-- [](http://example.com/) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Bayesian Model Selection for Ising Graphical Models
 
 Exploring applications of Bayesian inference to the Ising model. Extends the Decoupling Shrinkage and Selection Loss (Hahn and Carvalho, 2015) to Ising models. In order to calculate the DSS Loss, the psuedolikelihood is used to address the intractability of likelihood calculations with the Ising normalizing constant.
-
-<img src="images/olympic_pic.jpeg?raw=true"/>
 
 ---
 
