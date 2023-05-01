@@ -1,53 +1,39 @@
-## Portfolio
+## Selected Data Science projects
 
 ---
 
-### Personal Projects
+### Inventory tracker
 
-[Exploring the Olympics](https://github.com/manningkyle304/Olympic-Exploration/)
 
+
+<!-- [](/pdf/sample_presentation.pdf) -->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Automatic Censorship
+
+
+
+<!-- [](http://example.com/) -->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Automatic Censorship
+
+<!-- [](http://example.com/) -->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Bayesian Model Selection for Ising Graphical Models
+
+Exploring applications of Bayesian inference to the Ising model. Extends the Decoupling Shrinkage and Selection Loss (Hahn and Carvalho, 2015) to Ising models. In order to calculate the DSS Loss, the psuedolikelihood is used to address the intractability of likelihood calculations with the Ising normalizing constant.
 
 <img src="images/olympic_pic.jpeg?raw=true"/>
 
 ---
-[](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### School Projects
-
-[Project 1](https://github.com/manningkyle304/Olympic-Exploration/)
-
----
-
-[Project 2](https://github.com/manningkyle304/Olympic-Exploration/)
-
----
-
-
----
-
-### What I'm Reading
-
-#### Papers
-
-
-
-
-#### Books
-
-
-
----
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
