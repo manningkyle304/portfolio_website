@@ -25,11 +25,13 @@ asdfasdf
 
 ### Inventory tracker
 
-Used Python, AWS, and RShiny to track inventory for a small business. Wrote Python script to extract data from the business’s website through Shopify REST APIs, then set up cron jobs to automate daily. Then used a cloud database
+Using Python, AWS, and RShiny, I developed a neat interactive app to track inventory for a small business. 
+
+First, I utilized a Python script to extract data from the business’s website through Shopify REST APIs and clean the data. I used cron jobs to automate this and update daily, using a cloud database to store the data. Then, I accessed the database from R and built an interactive tracking website using RShiny.
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#) [![](https://img.shields.io/badge/R-black?logo=R)](#) [![]
 
 ---
 
