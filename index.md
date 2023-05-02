@@ -4,7 +4,7 @@
 
 ### Automated speech keyword detection with 1D and 2D CNNs
 
-This project sought to classify 1-second of audio into one of 11 different categories. Two different model setups were explored - feeding 1-second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
+This was a fun audio project which classified 1-second of audio into one of 11 different categories. Two different model setups were explored - feeding 1-second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
