@@ -6,7 +6,7 @@
 
 This project sought to classify 1-second of audio into one of 11 different categories. Two different model setups were explored - feeding 1-second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
 
-<img src="images/applsci-12-12151-g001-550.jpeg?raw=true" />
+<img src="images/mfcc-1024x235.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
