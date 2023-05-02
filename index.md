@@ -16,7 +16,15 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 ---
 
-### Research?
+### TBD NLP project
+
+---
+
+### TBD computer vision project
+
+---
+
+### Weak supervision research?
 
 asdfasdf
 
@@ -45,7 +53,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 ---
 
-### The last thing
+### Julia Matching game project
 
 ---
 
