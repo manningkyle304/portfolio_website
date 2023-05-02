@@ -8,7 +8,7 @@ This project sought to classify 1-second of audio into one of 11 different categ
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#)
 
 ---
 
