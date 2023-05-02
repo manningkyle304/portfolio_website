@@ -12,7 +12,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#)
+[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/AWS-black?logo=AWS)](#) [![](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#) 
 
 ---
 
