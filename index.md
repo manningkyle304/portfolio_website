@@ -16,7 +16,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 ---
 
-### Bla Bla
+### Research?
 
 asdfasdf
 
@@ -45,5 +45,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+### The last thing
+
+---
+
