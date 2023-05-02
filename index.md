@@ -12,7 +12,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-black?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#)
+[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-red?logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#)
 
 ---
 
@@ -31,7 +31,7 @@ First, I utilized a Python script to extract data from the business’s website 
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#) [![](https://img.shields.io/badge/R-black?logo=R)](#) [![]
+[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#) [![](https://img.shields.io/badge/R-red?logo=R)](#) [![]
 
 ---
 
