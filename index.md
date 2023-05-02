@@ -31,7 +31,7 @@ First, I utilized a Python script to extract data from the business’s website 
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#) [![](https://img.shields.io/badge/R-red?logo=R)](#) [![]
+[![](https://img.shields.io/badge/Python-red?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/R-red?logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#)
 
 ---
 
