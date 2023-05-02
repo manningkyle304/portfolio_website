@@ -4,7 +4,7 @@
 
 ### Automated speech Keyword Spotting with 1D and 2D CNNs
 
-This was a fun little audio project which classified one second of audio into one of 11 different categories! 
+This was a fun deep learning audio project which classified one second of audio into one of 11 different categories! 
 
 Two different model setups were explored - feeding one second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
 
