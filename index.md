@@ -31,7 +31,7 @@ First, I utilized a Python script to extract data from the business’s website 
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?logo=Python)](#) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/R-red?logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#)
+[![Python](https://img.shields.io/badge/Python-red?logo=Python)](#) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![R](https://img.shields.io/badge/R-red?logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?logo=RShiny)](#)
 
 ---
 
@@ -39,9 +39,9 @@ First, I utilized a Python script to extract data from the business’s website 
 
 Exploring applications of Bayesian inference to the Ising model. Extends the Decoupling Shrinkage and Selection Loss (Hahn and Carvalho, 2015) to Ising models. In order to calculate the DSS Loss, the psuedolikelihood is used to address the intractability of likelihood calculations with the Ising normalizing constant.
 
-<img src="images/mobility.png?raw=true" />
+<img src="images/bayesian_ising.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/R-red?logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 ---
 
