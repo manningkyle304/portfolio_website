@@ -31,7 +31,7 @@ First, I utilized a Python script to extract data from the business’s website 
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)(#) [![](https://img.shields.io/badge/R-red?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?style=for-the-badge&logo=RShiny)](#)
+[![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/R-red?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?style=for-the-badge&logo=RShiny)](#)
 
 ---
 
@@ -41,7 +41,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 <img src="images/bayesian_ising.png?raw=true" />
 
-[![](https://img.shields.io/badge/R-red?logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/R-red?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
 
 ---
 
