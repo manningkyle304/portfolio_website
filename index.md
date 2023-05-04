@@ -12,7 +12,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/Tensorflow-blue?style=for-the-badge&logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](#) 
+[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/Tensorflow-blue?style=for-the-badge&logo=tensorflow)](#) [![](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](#) 
 
 ---
 
@@ -31,7 +31,7 @@ First, I utilized a Python script to extract data from the business’s website 
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?style=for-the-badge&logo=RShiny)](#)
+[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?style=for-the-badge&logo=RShiny)](#)
 
 ---
 
@@ -41,7 +41,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 <img src="images/bayesian_ising.png?raw=true" />
 
-[![](https://img.shields.io/badge/R-red?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
+[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
 
 ---
 
@@ -53,7 +53,7 @@ Then, we describe a variety of features used to describe political candidates an
 
 To simulate the market, parameters were estimated using code in Julia. The approach used for parameter estimation is the semiparametric maximum score estimator, following JT Fox (2007).
 
-[![](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=Julia)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
+[![](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=Julia)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#)
 
 ---
 
