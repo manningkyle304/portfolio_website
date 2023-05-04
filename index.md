@@ -16,7 +16,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 ---
 
-### Weak supervision research?
+### Weakly Supervised Machine Learning Research
 
 In this research project, I worked with OpenStax researchers to explore Weakly Supervised machine learning. We showed that it is possible to achieve similar results to fully supervised learning (having ground truth labels) versus models trained on Snorkel-labeled data for predicting Bloom's taxonomy. This labeled data was created using expert domain knowledge. 
 
