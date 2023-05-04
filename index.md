@@ -32,7 +32,7 @@ We employed natural language processing techniques to develop features for a var
 
 In order to help a small business, I developed an interactive webpage app to track inventory over time using Python, AWS, and RShiny. 
 
-First, I utilized a Python script to extract data from the business’s website through Shopify REST APIs and clean the data. I used cron jobs to automate this and update daily, storing the data in AWS. Then, I accessed the cloud database from R and built an interactive tracking website using RShiny.
+First, I utilized a Python script to extract data from the business’s website through Shopify REST APIs and clean the data. Cron jobs automated daily data pulls and updates, and stored the data in AWS. Then, I accessed the cloud database from R and built an interactive tracking website using RShiny.
 
 <!-- <img src="images/mobility.png?raw=true" /> -->
 
