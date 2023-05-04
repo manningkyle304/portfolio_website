@@ -24,7 +24,7 @@ Natural language processing techniques were used to create features for various 
 
 <img src="images/weak_supervision.jpeg?raw=true" />
 
-[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/SKlearn-blue?style=for-the-badge&logo=Scikit-learn)](#) [![](https://img.shields.io/badge/NLP-black?style=for-the-badge)](#) 
+[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/Azure-%23FF9900?style=for-the-badge&logo=microsoft-azure&logoColor=white) [![](https://img.shields.io/badge/SKlearn-blue?style=for-the-badge&logo=Scikit-learn)](#) [![](https://img.shields.io/badge/NLP-black?style=for-the-badge)](#) 
 
 ---
 
