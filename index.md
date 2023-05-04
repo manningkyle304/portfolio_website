@@ -46,7 +46,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 <img src="images/bayesian_ising.png?raw=true" />
 
-[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#)
+[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#)
 
 ---
 
