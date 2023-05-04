@@ -22,6 +22,8 @@ In this research project, I worked with OpenStax researchers to explore Weakly S
 
 Natural language processing techniques were used to create features for various SciKit-Learn models. Then, we compared results from each of the models, and demonstrated that Weakly Supervised models were within 3% accuracy, with no ground truth labels!
 
+<img src="images/weak_supervision.jpg?raw=true" />
+
 [![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/SKlearn-blue?style=for-the-badge&logo=Scikit-learn)](#) [![](https://img.shields.io/badge/NLP-black?style=for-the-badge)](#) 
 
 ---
