@@ -34,7 +34,7 @@ Using Python, AWS, and RShiny, I developed a neat interactive app to track inven
 
 First, I utilized a Python script to extract data from the business’s website through Shopify REST APIs and clean the data. I used cron jobs to automate this and update daily, storing the data in AWS. Then, I accessed the cloud database from R and built an interactive tracking website using RShiny.
 
-<img src="images/mobility.png?raw=true" />
+<!-- <img src="images/mobility.png?raw=true" /> -->
 
 [![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/RShiny-black?style=for-the-badge&logo=RShiny)](#)
 
