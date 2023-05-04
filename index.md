@@ -47,16 +47,13 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 ### Using Econometrics to learn about Political Funding
 
-In this project, I simulated the market for political funding to answer how the U.S. Supreme Court case Citizens United v. FEC affected both PACs and political candidates.
+In this project, I used matching theory to explore the market for political funding in the US.
 
-In order to do so, we first introduce the transferable utility matching framework. Then, we describe a variety of features used to describe political candidates and contributors. These features are used to simulate production in matches (for more information on the matching framework, see Koopmans and Beckmann (1957), among others).
+Then, we describe a variety of features used to describe political candidates and contributors. These features are used to simulate production in matches (for more information on the matching framework see Koopmans and Beckmann (1957))
 
-To simulate the market, we must estimate parameters. The approach here is the semiparametric maximum score estimator, following JT Fox (2007).
+To simulate the market, parameters were estimated using code in Julia. The approach used for parameter estimation is the semiparametric maximum score estimator, following JT Fox (2007).
 
-The paper is: econometrics_research.pdf
-
-Many thanks to Jeremy Fox for an interesting and challenging class.
-
+[![](https://img.shields.io/badge/Julia-red?style=for-the-badge&logo=Julia)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
 
 ---
 
