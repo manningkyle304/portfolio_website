@@ -54,7 +54,7 @@ This Bayesian statistics research project had to do with applications of Bayesia
 
 In this project, I used matching theory to explore the market for political funding in the US.
 
-Then, we describe a variety of features used to describe political candidates and contributors. These features are used to simulate production in matches (for more information on the matching framework see Koopmans and Beckmann (1957))
+This involved creating a variety of features used to describe political candidates and contributors. These features are used to simulate production in matches (for more information on the matching framework see Koopmans and Beckmann (1957))
 
 To simulate the market, parameters were estimated using code in Julia. The approach used for parameter estimation is the semiparametric maximum score estimator, following JT Fox (2007).
 
