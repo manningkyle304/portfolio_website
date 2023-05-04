@@ -20,7 +20,7 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 In this research project, I worked with OpenStax researchers to explore Weakly Supervised machine learning. We showed that it is possible to achieve similar results to fully supervised learning (having ground truth labels) versus models trained on Snorkel-labeled data for predicting Bloom's taxonomy. This labeled data was created using expert domain knowledge. 
 
-Natural language processing techniques were used to create features for various SciKit-Learn models. Then, we compared results from each of the models, and demonstrated that Weakly Supervised models were within 3% accuracy, with no ground truth labels!
+Natural language processing techniques were used to create features for various SciKit-Learn models. Then, we compared results from each of the models, and demonstrated that Weakly Supervised models had similar accuracy, with no ground truth labels!
 
 <img src="images/weak_supervision.jpg?raw=true" />
 
