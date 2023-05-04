@@ -18,9 +18,9 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 ### Weak supervision research?
 
-asdfasdf
+In this research project, I worked with OpenStax researchers to explore Weakly Supervised machine learning. We showed that it is possible to achieve similar results to fully supervised learning (having ground truth labels) versus models trained on Snorkel-labeled data. This labeled data was used with expert domain knowledge.
 
-[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/SKlearn-blue?style=for-the-badge&logo=Scikit-learn)](#) [![](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](#) 
+[![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)](#) ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) [![](https://img.shields.io/badge/SKlearn-blue?style=for-the-badge&logo=Scikit-learn)](#) [![](https://img.shields.io/badge/NLP-black?style=for-the-badge)](#) 
 
 ---
 
