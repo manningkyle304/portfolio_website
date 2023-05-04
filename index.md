@@ -41,7 +41,7 @@ Exploring applications of Bayesian inference to the Ising model. Extends the Dec
 
 <img src="images/bayesian_ising.png?raw=true" />
 
-[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=Twitter)](#)
+[![](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#)
 
 ---
 
@@ -53,7 +53,7 @@ Then, we describe a variety of features used to describe political candidates an
 
 To simulate the market, parameters were estimated using code in Julia. The approach used for parameter estimation is the semiparametric maximum score estimator, following JT Fox (2007).
 
-[![](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=Julia)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)](#)
+[![](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=Julia)](#) [![](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter)](#)
 
 ---
 
