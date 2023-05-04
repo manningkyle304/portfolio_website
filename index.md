@@ -4,7 +4,7 @@
 
 ### Automated speech Keyword Spotting with 1D and 2D CNNs
 
-This was a fun deep learning audio project which classified one second of audio into one of 11 different categories! 
+In this deep learning journey, I explored an audio project which classified one second of audio into one of 11 different categories! 
 
 Two different model setups were explored - feeding one second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
 
@@ -18,9 +18,9 @@ The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet pe
 
 ### Weakly Supervised Machine Learning Research
 
-In this research project, I worked with OpenStax researchers to explore Weakly Supervised machine learning. We showed that it is possible to achieve similar results to fully supervised learning (having ground truth labels) versus models trained on Snorkel-labeled data for predicting Bloom's taxonomy. This labeled data was created using expert domain knowledge. 
+As part of a research collaboration with OpenStax researchers, I explored Weakly Supervised machine learning. We showed that it is possible to achieve similar results to fully supervised learning (having ground truth labels) versus models trained on Snorkel-labeled data for predicting Bloom's taxonomy. Notably, this labeled data was created using expert domain knowledge. 
 
-Natural language processing techniques were used to create features for various SciKit-Learn models. Then, we compared results from each of the models, and demonstrated that Weakly Supervised models had similar accuracy, with no ground truth labels!
+We employed natural language processing techniques to develop features for a variety of SciKit-Learn models. Then, we compared results from each of the models, and demonstrated that Weakly Supervised models exhibited similar accuracy, even with no ground truth labels!
 
 <img src="images/weak_supervision.jpeg?raw=true" />
 
@@ -30,7 +30,7 @@ Natural language processing techniques were used to create features for various 
 
 ### Inventory tracker
 
-Using Python, AWS, and RShiny, I developed a neat interactive app to track inventory for a small business. 
+In order to help a small business, I developed an interactive webpage app to track inventory over time using Python, AWS, and RShiny. 
 
 First, I utilized a Python script to extract data from the business’s website through Shopify REST APIs and clean the data. I used cron jobs to automate this and update daily, storing the data in AWS. Then, I accessed the cloud database from R and built an interactive tracking website using RShiny.
 
