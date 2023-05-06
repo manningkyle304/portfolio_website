@@ -8,7 +8,7 @@ In this deep learning journey, I explored an audio project which classified one 
 
 Two different model setups were explored - feeding one second raw waveforms to a 1-Dimensional ConvNet, vs. transforming raw waveform to a frequency representation and extracting 2D features by using Mel-Frequency Capstrum Coefficients (MFCC), which were then fed into a 2D ConvNet. 
 
-The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet peaked at 92.52% validation accuracy!
+The best 1D ConvNet obtained 81.25% Validation accuracy, while the 2D ConvNet peaked at 92.52% validation accuracy.
 
 <img src="images/mfcc-1024x235.png?raw=true" />
 
